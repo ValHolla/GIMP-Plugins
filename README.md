@@ -1,5 +1,3 @@
-## README.md
-
 # GIMP-Plugins
 Copy these file into your plug-ins directory and restart GIMP
 
