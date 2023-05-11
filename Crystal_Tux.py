@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # vim: expandtab:ts=4:sw=4
-# pylint: disable=C0302,C0103,E0401
+# pylint: disable=C0302,C0103,E0401,C0114,C0116
 
 from gimpfu import (
     gimp,
